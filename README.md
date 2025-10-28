@@ -1,5 +1,5 @@
 # CST_scripts
-A collection of scripts to assist CST workflow
+A collection of scripts to assist CST frequency simulation workflow
 
 ## Requirements
 - Python 3.8 or higher, you can use the CST python interpreter
