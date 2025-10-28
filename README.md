@@ -2,8 +2,8 @@
 A collection of scripts to assist CST workflow
 
 ## Requirements
-Python 3.8 or higher, you can use the CST python interpreter
-Resonator tools: https://github.com/sebastianprobst/resonator_tools
+- Python 3.8 or higher, you can use the CST python interpreter
+- Resonator tools: https://github.com/sebastianprobst/resonator_tools
 
 ## Usage
 ### Running Script from CST
